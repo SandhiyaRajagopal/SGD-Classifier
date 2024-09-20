@@ -49,7 +49,8 @@ print(cm)
 ```
 
 ## Output:
-![Screenshot 2024-09-20 132043](https://github.com/user-attachments/assets/a0f3c724-2dad-4c28-98aa-8036c801430a)
+![image](https://github.com/user-attachments/assets/de3a7bc9-f07e-49ed-91d4-459e1acb05f9)
+
 
 
 
